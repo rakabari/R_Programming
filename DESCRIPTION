@@ -1,0 +1,11 @@
+Package: DNA2aa
+Type: Package
+Title: Translating DNA sequence to amino acid sequence using R
+Version: 0.1.0
+Author: "Ratilal Akabari <rakabari@mail.usf.edu> [aut, cre]"
+Maintainer: Ratilal Akabari <rakabari@mail.usf.edu>
+Description: The codes proived uses input DNA sequence and using the genetic code converts it to the corresponding amino acid sequence
+License: USF
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

@@ -1,0 +1,1 @@
+# This packages imports DNA sequence from online database and converts it into amino acid sequence and exports it in a FASTA file format.
